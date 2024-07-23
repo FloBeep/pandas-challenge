@@ -1,0 +1,10 @@
+
+--------------------------
+Summary of the Analysis and Written Conclusions
+--------------------------
+The data we have to analyze consists of two CSV files with data for 13 different schools and 39,170 students. We were asked to analyze the district-wide standardized test results and aggregate the data to showcase obvious trends in school performance.
+
+We were tasked to make a District Summary, giving us a general understanding of the data before deep diving into a School Summary. We then used the percentage of overall spending and passing to sort the schools. We calculated the average math and reading scores and noticed that they were pretty consistent among each grade 9 – 12 at each school. The overall passing scores in schools under 2000 students (91%) are way higher than the passing score in larger schools (58%).The lowest performing schools are district schools with a large student populations, larger school budgets, and scores almost half that of high preforming schools. The higher performing schools seem to be charter schools and the top 5 are medium sized schools with smaller funding.
+
+To conclude, the Charter Schools dominated the top 5 schools in overall passing rate and District dominated the bottom 5. The larger spending or the school size doesn’t represent efficiency and the lower spending ranges with a smaller size gave the best results.
+--------------------------
